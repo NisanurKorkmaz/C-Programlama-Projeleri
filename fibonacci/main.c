@@ -1,10 +1,9 @@
-//
 //  main.c
 //  fibonacci
 //
 //  Created by Nisanur Korkmaz on 09/02/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
-//
+
 
 #include <stdio.h>
 
@@ -23,7 +22,7 @@ int main() {
     return 0;
 }
 
-int fibonacci ( int n)
+int fibonacci(int n)
 
 {   if ( n==1 )
         return n ;
