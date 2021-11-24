@@ -1,7 +1,4 @@
-//
-//  main.c
-//  second
-//
+
 //  Created by Nisanur Korkmaz on 09/02/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
 //
