@@ -1,7 +1,8 @@
 //
 //  main.c
-//  matris
-//
+//  matris simetrik mi
+//  matrisin transpozesi
+//  matrisin icinde sayi bulma
 //  Created by Nisanur Korkmaz on 03/03/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
 //
