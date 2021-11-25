@@ -32,6 +32,6 @@ int main()
     }
     
     printf("----------\n");
-    printf("%d %d %d " ,toplam[0], toplam[1], toplam[2]);
+    printf("%d %d %d \n" ,toplam[0], toplam[1], toplam[2]);
     return 0;
 }
