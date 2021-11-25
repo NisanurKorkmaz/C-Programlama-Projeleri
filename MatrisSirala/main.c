@@ -19,7 +19,7 @@ int main()
         }
         printf("\n");
     }
-    printf("matrisin sirali hali \n");
+    printf("\nmatrisin sirali hali \n");
     int i, j, k ;
     for(i=0 ; i<3; i++ )
     {
