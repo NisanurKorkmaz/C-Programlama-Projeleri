@@ -3,7 +3,8 @@
 //
 //  Created by Nisanur Korkmaz on 28/02/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
-//
+//  Tek sayilari dizinin basina, cift sayilari dizinin sonuna yerlestirir
+
 void tekciftduzenle(int dizi[], int a);
 
 #include <stdio.h>
