@@ -1,6 +1,5 @@
 //
 //  main.c
-//  AZE
 //
 //  Created by Nisanur Korkmaz on 28/02/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
