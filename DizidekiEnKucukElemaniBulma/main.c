@@ -14,7 +14,7 @@ int main() {
     int min , indis ;
     srand(time(NULL));
     
-    for(int i=0 ; i<10 ; i++)
+    for(int i=0 ; i<10 ; i++) //rastgele sayilardan dizi olusturuluyor
     {
         dizi[i]= rand() % 100 ;
         printf("%d  ", dizi[i]);
