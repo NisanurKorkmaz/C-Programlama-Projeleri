@@ -1,7 +1,6 @@
 //
 //  main.c
-//  A
-//
+//  BUUBBLE SORT ALGORITMASI ILE DIZI SIRALAMA
 //  Created by Nisanur Korkmaz on 27/02/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
 //
