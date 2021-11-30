@@ -1,6 +1,5 @@
 //
 //  main.c
-//  hey
 //
 //  Created by Nisanur Korkmaz on 27/02/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
