@@ -3,7 +3,7 @@
 //
 //  Created by Nisanur Korkmaz on 27/02/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
-//
+//  IKI DIZI ICINDEKI ORTAK ELEMANLARI BULUP EKRANA YAZAR
 
 #include <stdio.h>
 
