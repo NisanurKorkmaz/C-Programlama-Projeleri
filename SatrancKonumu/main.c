@@ -1,10 +1,8 @@
-//
+//  11.54
 //  main.c
-//  8.34
-//
 //  Created by Nisanur Korkmaz on 05/04/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
-//  SATRANC TA ATIN KONUMUNU GOSTEREN KOD
+//  BOS BIR SATRANÇ TAHTASI UZERINDE ATIN KONUMU VERILDIGINDE HAREKET EDEBILECEGI YERLERI GOSTEREN PROGRAM
 
 #include <stdio.h>
 #include <stdlib.h>
