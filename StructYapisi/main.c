@@ -18,7 +18,7 @@ struct node {
 struct node *ilk=NULL, *son=NULL;
 
 int main() {
-//    struct node oyuncular[3];
+
     char isim[10];
     int y;
     int k;
