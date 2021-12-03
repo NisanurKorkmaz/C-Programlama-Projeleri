@@ -3,7 +3,9 @@
 //  20.1
 //
 //  Created by Nisanur Korkmaz on 22/12/2020.
-//
+//  NODE LISTESINDE ISLEMLER 
+
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node
