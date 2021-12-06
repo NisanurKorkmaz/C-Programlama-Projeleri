@@ -4,6 +4,7 @@
 //
 //  Created by Nisanur Korkmaz on 09/06/2020.
 //  Copyright © 2020 Nisanur Korkmaz. All rights reserved.
+//  OGRENCI BILGILERI GIRIS EKRANI - GIRILEN VERILER VERI.DAT ISIMLI DOSYAYA KAYDEDIYOR
 
 #include<stdio.h>
 #include <stdlib.h>
